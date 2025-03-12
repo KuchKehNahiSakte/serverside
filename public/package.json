@@ -1,0 +1,14 @@
+// package.json
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "Server for Greenleaf Organics website with signup and login functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1", // Or the latest version
+    "body-parser": "^1.19.0" // Or the latest version
+  }
+}
